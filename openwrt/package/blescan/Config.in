@@ -1,0 +1,6 @@
+config BR2_PACKAGE_BLESCAN
+	prompt "BLESCAN.............................. A file to scan bluetooth LE"
+	tristate
+	default n if CONFIG_DEVEL
+	help
+		A small utility to spit out bluetooth low energy advertisements

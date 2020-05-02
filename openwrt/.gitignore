@@ -1,0 +1,16 @@
+staging_dir_*
+.config.cmd
+toolchain_build_*
+build_*
+.tmpconfig.h
+dl
+.config.old
+.config.test
+bin
+make-log.old
+.config
+BUILD_DONE*
+TAGS
+boardconfig-*
+.patchwork_quilt
+*.cmd

@@ -1,0 +1,6 @@
+config BR2_PACKAGE_BLUEZ_LITE
+  prompt "bluezlite....................... Bluez library... lite"
+  tristate
+  default n if CONFIG_DEVEL
+  help
+    Small library of Bluez

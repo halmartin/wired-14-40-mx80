@@ -1,0 +1,4 @@
+Package: blescan
+Priority: optional
+Section: net
+Description: A small utility to print BLE advertisements

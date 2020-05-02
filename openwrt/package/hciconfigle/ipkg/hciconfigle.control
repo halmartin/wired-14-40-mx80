@@ -1,0 +1,4 @@
+Package: hciconfigle
+Priority: optional
+Section: net
+Description: Low energy configuration
